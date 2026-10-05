@@ -6,8 +6,8 @@ $\color{#a7ad97}{✦}$
 <img src="https://pbs.twimg.com/media/HRQzIn-bIAAlKaW?format=jpg&name=900x900" width="500" alt="Centered Image" />
 
 
-$\color{#a7ad97}{\text{❝ Though honey it may seem impossible ,  ❞}}$
+$\color{#a7ad97}{\text{❝ Each time I find myself , flat on my face , ❞}}$
 
-$\color{#a7ad97}{\text{❝ That's the gospel truth ! ❞}}$
+$\color{#a7ad97}{\text{❝ I pick myself up and get back in the race ! ❞}}$
 
 </div>
