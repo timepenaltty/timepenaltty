@@ -1,2 +1,5 @@
- 　　  　　 　 　　  　　 　　 　　　 ![](https://komarev.com/ghpvc/?username=timepenaltty&color=758589&label=audi+wcc+points&base=203)
+<div align="center">
+<img src="https://pbs.twimg.com/media/HRQzIn-bIAAlKaW?format=jpg&name=900x900" width="500" alt="Centered Image" />
+</div>
+
 
